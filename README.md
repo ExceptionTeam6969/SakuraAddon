@@ -2,6 +2,8 @@
 
 This is a template for creating a Sakura Addon.
 
+**You should put the latest `Sakura.jar` in the `libs` folder.**
+
 Project Structure:
 ```
 ├───gradle
@@ -40,5 +42,3 @@ Project Structure:
 │   README.md
 │   settings.gradle.kts
 ```
-
-You should put the latest `Sakura.jar` in the `libs` folder.
