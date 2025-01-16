@@ -2,7 +2,7 @@
 
 This is a template for creating a Sakura Addon.
 
-**You should put the latest `Sakura.jar` in the `libs` folder.**
+**You should put the latest `Sakura.jar` & `Sakura-sources.jar` in the `libs` folder.**
 
 Project Structure:
 ```
